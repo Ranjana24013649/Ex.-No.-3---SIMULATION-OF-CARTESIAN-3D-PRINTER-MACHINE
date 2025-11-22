@@ -60,8 +60,12 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: RANJANA R
+### Register Number: 212224040270
+
+<img width="1022" height="513" alt="image" src="https://github.com/user-attachments/assets/75de1aee-93f5-457f-906d-b744bcd55530" />
+
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
